@@ -1,2 +1,5 @@
 Project
+Context:SpringIndexMVCExample
+url
+http://localhost:9443/SpringIndexMVCExample/index
 redirects to index.jsp
